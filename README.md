@@ -1,4 +1,4 @@
-# flutter_app_udemy
+# This is my Flutter roll dice App
 
 A new Flutter application.
 
